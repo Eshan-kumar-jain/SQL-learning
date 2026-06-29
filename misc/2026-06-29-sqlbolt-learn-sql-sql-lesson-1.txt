@@ -1,0 +1,1 @@
+Practicing sql aggregate functions on sql bolt
