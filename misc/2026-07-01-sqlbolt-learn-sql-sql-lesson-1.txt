@@ -1,1 +1,1 @@
-Running a sql query to create a table in a database.
+Altering the table
