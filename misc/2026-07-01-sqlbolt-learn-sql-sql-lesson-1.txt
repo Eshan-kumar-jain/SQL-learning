@@ -1,1 +1,1 @@
-Altering the table
+Dropping a table in a dataset
