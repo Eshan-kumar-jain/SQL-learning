@@ -1,0 +1,1 @@
+select distinct year(birth_date) as birth_year from patients order by birth_year;
