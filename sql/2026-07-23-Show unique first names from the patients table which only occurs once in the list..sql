@@ -1,0 +1,1 @@
+select distinct(first_name) as unique_names from patients group by first_name having count(*) =1;
