@@ -1,0 +1,1 @@
+select max(weight)-min(weight) from patients where last_name = 'Maroni';
